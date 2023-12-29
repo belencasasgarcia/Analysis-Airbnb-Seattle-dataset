@@ -1,9 +1,6 @@
-Airbnb_Seattle_data_analysis
-==============================
+# Airbnb Seattle data analysis
 
 Analysis of Seattle Airbnb Kaggle dataset
-
-# Airbnb Seattle data analysis
 
 - [Repository Contents](#repository-contents)
 - [File descriptions](#file-descriptions)
@@ -13,10 +10,9 @@ Analysis of Seattle Airbnb Kaggle dataset
 
 ## Repository Contents:
 
-The files include data and codes to analyse the Seattle Airbnb dataset from Kaggle. These data can be found [here][kaggle airbnb].
+The files include data and codes to analyse the Seattle Airbnb dataset from Kaggle. These data can be found [here][kaggle airbnb]. The structure of the repository is as follows (note that this corresponds to a cookiecutter strcuture and not all folders/files are applicable):
 
-The structure of the repository is as follows (note that this corresponds to a cookiecutter strcuture and not all folders/files are applicable):
-------------
+
 
     ├── LICENSE
     ├── Makefile           <- Makefile with commands like `make data` or `make train`
